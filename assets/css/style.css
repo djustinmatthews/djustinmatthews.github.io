@@ -338,6 +338,11 @@ h6, .h6 {
     color: #fff !important;
 }
 
+#leadership .col-lg-8 {
+    overflow-y: auto;
+    height: 400px;
+}
+
 .display-1 {
   font-size: 5rem;
   font-weight: 300;
